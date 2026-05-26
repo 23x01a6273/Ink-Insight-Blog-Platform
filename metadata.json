@@ -1,0 +1,6 @@
+{
+  "name": "Ink & Insight",
+  "description": "A modern, visually stunning, fully responsive blog platform UI with a premium dark-editorial slate aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
